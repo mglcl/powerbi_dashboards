@@ -1,2 +1,2 @@
-# powerbi_dashbaords
+# powerbi_dashboards
 dashboards created using MSPBI
